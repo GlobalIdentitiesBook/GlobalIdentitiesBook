@@ -6,6 +6,4 @@ To *italicize*, surround a word in asterisks.
 
 To **bold**, use two asterisks.
 
-Here is an image with a caption:
 
-![Marmalade and Tangerine](images/marm-and-tangie.jpg)
