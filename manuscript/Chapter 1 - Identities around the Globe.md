@@ -1,12 +1,16 @@
-# Chapter 1
+# Chapter 1: Identities around the Globe
 
 Hello, **world**!
 
-## Section 1.1
+## A fundamental human right
 
 bla bla
 
-## section 1.2
+## A gateway to economic opportunities
+
+bla bla
+
+## World Bank report
 
 bla bla
 

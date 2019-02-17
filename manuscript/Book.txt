@@ -6,7 +6,7 @@ Chapter 1 - Identities around the Globe.md
 Chapter 2 - History of Digital Identities.md
 Chapter 3 - Web of trust.md
 PART II - Blockchains.md
-Chaper 4 - What is a Blockchain.md
+Chapter 4 - What is a Blockchain.md
 Chapter 5 - Caracteristics of a Blockchain.md
 Chapter 6 - How does it work.md
 PART III - Self Sovereign Identities.md
@@ -15,8 +15,8 @@ Chapter 8 - Architecture.md
 Chapter 9 - Identifier Registry Model.md
 Chapter 10 - Claim Registry Model.md
 Chapter 11 - Zooko’s Triangle.md
-Chaper 12 - DIDs, Decentralized Identifiers.md
+Chapter 12 - DIDs, Decentralized Identifiers.md
 PART IV - Blockchain projects.md
 Chapter 13 - uPort.md
-Chaper 14 - Sovrin.md
+Chapter 14 - Sovrin.md
 Conclusion.md

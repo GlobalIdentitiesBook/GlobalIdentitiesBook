@@ -1,0 +1,1 @@
+# Chapter 5: Caracteristics of a Blockchain

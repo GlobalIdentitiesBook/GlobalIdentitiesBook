@@ -1,4 +1,4 @@
-# Chapter 2
+# Chapter 2: History of Digital Identities
 
 To start a new paragraph, hit the return key twice. You want to create a blank line between paragraphs.
 

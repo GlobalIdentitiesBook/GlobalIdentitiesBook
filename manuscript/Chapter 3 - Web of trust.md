@@ -1,4 +1,4 @@
-# Chapter 3
+# Chapter 3: Web of trust
 
 We hope this manuscript contains all the basic things you need to know to get started writing a book using Leanpub-Flavored Markdown.
 
