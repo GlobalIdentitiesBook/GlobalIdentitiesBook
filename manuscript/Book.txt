@@ -14,7 +14,7 @@ Chapter 7 - 10 principles.md
 Chapter 8 - Architecture.md
 Chapter 9 - Identifier Registry Model.md
 Chapter 10 - Claim Registry Model.md
-Chapter 11 - Zooko’s Triangle.md
+Chapter 11 - Zooko's Triangle.md
 Chapter 12 - DIDs, Decentralized Identifiers.md
 PART IV - Blockchain projects.md
 Chapter 13 - uPort.md
